@@ -2,7 +2,7 @@ This is based on the original libft project of 42.
   
 We are free to add any functions we think are necessary for future projects, this is the version with my added functions.  
 
-Functions:
+Functions:  
 ft_atoi.c  
 ft_bzero.c  
 ft_calloc.c  
@@ -46,3 +46,6 @@ ft_strtrim.c
 ft_substr.c  
 ft_tolower.c  
 ft_toupper.c  
+ft_isspace.c  
+get_next_line.c  
+get_next_line_multifd.c  
